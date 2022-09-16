@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Oluwajooba
-- 👀 I’m interested in product designing(UI/UX) 
-- 🌱 I’m currently learning about the world of design
-- 💞️ I’m looking to collaborate on web designing and product designing 
+- 👋 Hi, I’m @Oladipupo
+- 👀 I keep track of my development with designs and codes
+- 🌱 I’m currently learning software engineering.
+- 💞️
 - 📫 How to reach me Email- oladejidipupo@gmail.com 
 
 <!---
